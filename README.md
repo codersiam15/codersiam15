@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Md Siam Uddin
 ### Senior Laravel Developer | 9+ Years Experience
 
 ## 🚀 About Me
@@ -52,13 +52,13 @@ Senior Laravel developer with 9+ years of experience specializing in:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect
-- **Portfolio:** [yourportfolio.com]
-- **LinkedIn:** [linkedin.com/in/yourprofile]
-- **Email:** your.email@domain.com
+- **Portfolio:**
+- **LinkedIn:** 
+- **Email:** phpsiamduddin@gmail.com
 
 ## 📝 Latest Blog Posts
 <!-- Add your blog posts if any -->
 
 ---
 
-⭐️ From [Your Name]
+⭐️ From Md Siam Uddin
